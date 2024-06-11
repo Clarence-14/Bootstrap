@@ -1,0 +1,36 @@
+body{
+    background-image: url("assets/resources/wallpaper2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+
+}
+.fa-instagram {
+  background: #3B5998;
+  color: white;
+
+}
+
+img{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    margin-top: 50px;
+}
+
+h2{
+    font-family: Garamond;
+}
+p{
+    font-size: larger;
+    font-family: Georgia;
+}
+li{
+    font-family: "Copperplate Gothic Light";
+    font-size: larger;
+    color: cadetblue;
+}
